@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a968bcff-bdc9-4e2f-94d7-80276c0cbcfa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VAJrT0X2yoJrZsARxx8PzKgpqw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/zwz-front-master" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Desktop\3\新建文件夹 (2)\zwz-front-master\zwz-front-master\src\components\paperList" />
+      <recent name="E:\god\zwz-front-master\zwz-front-master\src\components" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a968bcff-bdc9-4e2f-94d7-80276c0cbcfa" name="Default Changelist" comment="" />
+      <created>1576690164702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576690164702</updated>
+      <workItem from="1576690167439" duration="1489000" />
+      <workItem from="1576722188884" duration="2684000" />
+      <workItem from="1576760145560" duration="2926000" />
+      <workItem from="1576765100008" duration="680000" />
+      <workItem from="1576805407538" duration="11704000" />
+      <workItem from="1576833790361" duration="658000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#ESLint" timestamp="1576816849216">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#ESLint/0.0.1536.824@0.0.1536.824" timestamp="1576816849216" />
+    <state x="720" y="284" key="FileChooserDialogImpl" timestamp="1576834351518">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="720" y="284" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1576834351518" />
+    <state x="540" y="57" key="SettingsEditor" timestamp="1576760170070">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1576760170070" />
+    <state x="723" y="157" width="782" height="590" key="find.popup" timestamp="1576808298911">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="723" y="157" width="782" height="590" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1576808298911" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1576817123457">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1576817123457" />
+  </component>
+</project>

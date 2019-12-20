@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e6dd9f3-c599-4228-8cc8-5dcab5ed3933" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/zwz-vue" />
+  </component>
+  <component name="ProjectId" id="1PuKgOrKvdbL1i2yKHpztHTpdT7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\workspace\vue-project\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\作业\5\zwz-front-master\zwz-front-master\src\components\admin" />
+      <recent name="C:\Users\Lenovo\Desktop\2109\Vue_clone\vue-project\src\components\paperList" />
+      <recent name="Z:\程序设计实践小学期2\Vue\3\vue-project\src\components\admin\me" />
+      <recent name="C:\workspace\vue-project\src\components\admin\myprofile" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Desktop\5\zwz-front-master\zwz-front-master\src\components\paperList" />
+      <recent name="C:\作业\5\zwz-front-master\zwz-front-master\src\components\paper" />
+      <recent name="C:\作业\5\zwz-front-master\zwz-front-master\src\components\paperList" />
+      <recent name="C:\作业\5\zwz-front-master\zwz-front-master\src\router" />
+      <recent name="C:\作业\zwz-front-master\src\components\search" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Blog.vue" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/vue-project/src/components/blog/Blog.vue" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.Blog.vue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e6dd9f3-c599-4228-8cc8-5dcab5ed3933" name="Default Changelist" comment="" />
+      <created>1566718651116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566718651116</updated>
+      <workItem from="1566718652554" duration="72192000" />
+      <workItem from="1566957580711" duration="130000" />
+      <workItem from="1566957945693" duration="4066000" />
+      <workItem from="1566963658714" duration="8021000" />
+      <workItem from="1566990985847" duration="14000" />
+      <workItem from="1566993348169" duration="6227000" />
+      <workItem from="1567041570788" duration="6673000" />
+      <workItem from="1567049795261" duration="17568000" />
+      <workItem from="1567095980272" duration="1670000" />
+      <workItem from="1567127102694" duration="29293000" />
+      <workItem from="1567177099134" duration="6789000" />
+      <workItem from="1567212892850" duration="7370000" />
+      <workItem from="1567221059795" duration="56000" />
+      <workItem from="1567221270921" duration="2353000" />
+      <workItem from="1567223823627" duration="42000" />
+      <workItem from="1567231783298" duration="3119000" />
+      <workItem from="1567234946626" duration="23548000" />
+      <workItem from="1567267878898" duration="311000" />
+      <workItem from="1567301639827" duration="122000" />
+      <workItem from="1574844687872" duration="56000" />
+      <workItem from="1574844773426" duration="3048000" />
+      <workItem from="1574920631917" duration="165000" />
+      <workItem from="1576489514925" duration="2860000" />
+      <workItem from="1576493506136" duration="2351000" />
+      <workItem from="1576580788135" duration="3147000" />
+      <workItem from="1576589033734" duration="7000" />
+      <workItem from="1576646099275" duration="5857000" />
+      <workItem from="1576657310196" duration="2229000" />
+      <workItem from="1576680595469" duration="514000" />
+      <workItem from="1576681986332" duration="2661000" />
+      <workItem from="1576743052194" duration="4068000" />
+      <workItem from="1576820714617" duration="6709000" />
+      <workItem from="1576834355324" duration="97000" />
+      <workItem from="1576834481814" duration="5022000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#ESLint" timestamp="1576826317708">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#ESLint/0.0.1536.824@0.0.1536.824" timestamp="1576826317708" />
+    <state x="624" y="201" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576744147683">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1576585419409" />
+    <state x="624" y="201" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576744147683" />
+    <state x="592" y="217" key="FileChooserDialogImpl" timestamp="1576834515211">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="592" y="217" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1576834515211" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576746253773" />
+    <state x="461" y="161" key="SettingsEditor" timestamp="1576646140940">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="161" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576646140940" />
+    <state x="1196" y="0" width="732" height="1048" key="dock-window-1" timestamp="1576664403723">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1196" y="0" width="732" height="1048" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1576664403723" />
+    <state x="363" y="120" width="782" height="626" key="find.popup" timestamp="1576836811241">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="363" y="120" width="782" height="626" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1576836811241" />
+    <state x="493" y="190" key="run.anything.popup" timestamp="1576826274691">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="493" y="190" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1576826274691" />
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576646448644" />
+    <state x="616" y="173" width="670" height="676" key="search.everywhere.popup" timestamp="1576744108864">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="173" width="670" height="676" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576744108864" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/admin/others/othersfavor/OthersFavor.vue</url>
+          <line>5</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
